@@ -1,7 +1,7 @@
 # Cloud Computing Portfolio
 
 ## Student Profile
-* **Name:** Edgerwyn [Your Last Name]
+* **Name:** Edgerwyn Costales
 * **Course:** CCM101 - Cloud Computing
 
 ## Portfolio Overview
